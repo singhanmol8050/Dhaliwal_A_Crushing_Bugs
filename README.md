@@ -2,7 +2,7 @@
 
 ## Objective
 
-Make the puzzle perfectly working by solving the bugs.
+Make the puzzle perfectly working by solving the bugs. 
 	1.You can drag and drop more than one puzzle piece into a drop zone. 
 	2.The problem with pieces appearing in the drop zones on reset.
 

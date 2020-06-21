@@ -2,11 +2,18 @@
 
 ## Objective
 
-Make the puzzle perfectly working by solving the bugs. 
+Make the puzzle perfectly working by solving the bugs.
 	1.You can drag and drop more than one puzzle piece into a drop zone. 
 	2.The problem with pieces appearing in the drop zones on reset.
 
--------------------------------------------------------------------------------------------
+## Prerequisites
+
+You need a web browser to download this repositiry and see it in a web browser. And you are good to go.
+
+## Solution
+
+The written plan to crush the bugs is in the includes folder in a text file.  
+
 
 ## MIT License
 
